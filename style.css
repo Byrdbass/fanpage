@@ -1,0 +1,19 @@
+h1, .center {
+    font-family: "Georgia", sans-serif;
+    text-align: center;
+}
+body { 
+    font-family: "Veranda", sans-serif;
+}
+.font1 {
+    font-family: "Helvetica", sans-serif;
+}
+.centerimg {
+    border: 10px solid gray;
+}
+tr, td {
+    border: 1px solid black
+}
+.toprow {
+    background-color: gray
+}
